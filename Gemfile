@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
-gem "cocoapods"
+gem "cocoapods", ">= 1.16.0"
 gem "colorize"
 gem "dotstrings"
-gem "fastlane"
+gem "fastlane", ">= 2.220.0"
 gem "mail"
 gem "rubyzip"
 gem "octokit", "~> 4.25.1"
