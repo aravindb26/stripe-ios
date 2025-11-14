@@ -8,7 +8,7 @@ gem "mail"
 gem "rubyzip"
 gem "octokit", "~> 4.25.1"
 gem "mime-types"
-gem "CFPropertyList"
+gem "CFPropertyList", ">= 3.0.8"
 gem "terminal-table"
 
 gem "xcode-install", "~> 2.6"
